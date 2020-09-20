@@ -1,0 +1,31 @@
+Index: src/main/main1.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/main1.java	(revision c9da64f2385dc3768fa1da6291eb53d8d8887454)
++++ src/main/main1.java	(date 1600586144197)
+@@ -2,7 +2,22 @@
+ 
+ public class main1 {
+     public static void main(String[] args) {
+-        System.out.println("Hi");
++        System.out.println("Hi 21");
++        System.out.println("Chao");
++        System.out.println("Chao-cacao");
++        System.out.println("Chao-cacao");
++        System.out.println("Chao-cacao");
++        System.out.println("Chao-cacao");
++        System.out.println("Chao-cacao");
++        System.out.println("Chao-cacao");
++        System.out.println("Chao-cacao");
++        System.out.println("Chao");
++        System.out.println("Chao");
++        System.out.println("Chao");
++        System.out.println("Chao-cacao");
++        System.out.println("Chao-cacao");
++        System.out.println("Chao");
++        System.out.println("Chao");
+         System.out.println("Chao");
+     }
+ }
